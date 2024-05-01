@@ -1,12 +1,18 @@
 **Bouncing Ball Game: JavaFX**
 
-This project is a simple game implemented using JavaFX and Scene Builder. 
+This project is a simple game implemented using JavaFX and Scene Builder. Goal: Make the ball bounce as long as possible.
 
 ### Features:
 - **Interactive Gameplay:** Experience interactive gameplay by pad using the mouse
 - **Scoring System:** Keep track of your score as you successfully bounce the ball off the walls without letting it fall off the screen.
 - **Game Over Detection:** Detect when the ball falls off the screen, signaling the end of the game.
 - **Restart Option:** Restart the game with the click of a button after the game ends.
+
+### Screenshots:
+
+![Title screen](https://github.com/chris-jeune/Bouncing-Ball-Game/assets/145855247/8bb82e62-2580-4cb1-afbe-29acefc194b2)
+
+![Game Over](https://github.com/chris-jeune/Bouncing-Ball-Game/assets/145855247/56c166f1-411b-4586-b502-4cdfd8d9fd93)
 
 ### Getting Started:
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
