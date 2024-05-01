@@ -1,4 +1,4 @@
-##Bouncing Ball Game: JavaFX
+## Bouncing Ball Game: JavaFX
 
 This project is a simple game implemented using JavaFX and Scene Builder. Goal: Make the ball bounce as long as possible.
 
